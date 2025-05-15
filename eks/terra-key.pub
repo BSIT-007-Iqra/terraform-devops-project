@@ -1,0 +1,2 @@
+# add your ssh key with this command in the current directory  
+ssh-keygen -t rsa -b 4096 -C "terra-key" -f ./terra-key
