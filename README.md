@@ -161,7 +161,4 @@ terraform apply 2>&1 | tee debug.log  # Save logs
 This guide covers the essential Terraform commands and patterns for real-world DevOps projects. Use it as a quick reference while working with Terraform infrastructure. 
 
 
-=======
-# terraform-devops-project
-This is a Practical Project with hands-on information on Terraform 
->>>>>>> 65a816dada0bbc1fd0791ea21d973905e0763d5d
+
