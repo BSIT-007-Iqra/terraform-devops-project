@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Terraform Project
 
 This repository is your one-stop solution for using **Terraform as a DevOps Engineer**.
@@ -161,3 +162,7 @@ terraform apply 2>&1 | tee debug.log  # Save logs
 This guide covers the essential Terraform commands and patterns for real-world DevOps projects. Use it as a quick reference while working with Terraform infrastructure. 
 
 
+=======
+# terraform-devops-project
+This is Practical Project with hands-on information of terraform 
+>>>>>>> 65a816dada0bbc1fd0791ea21d973905e0763d5d
