@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Terraform Project
 
 This repository is your one-stop solution for using **Terraform as a DevOps Engineer**.
@@ -164,5 +163,5 @@ This guide covers the essential Terraform commands and patterns for real-world D
 
 =======
 # terraform-devops-project
-This is Practical Project with hands-on information of terraform 
+This is a Practical Project with hands-on information on Terraform 
 >>>>>>> 65a816dada0bbc1fd0791ea21d973905e0763d5d
